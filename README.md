@@ -1,10 +1,27 @@
 # Contract Acquisition FedMake Accelerator
 
-Government focused Contract Acquisition FedMake Accelerator Developed at a FedMake Event by Makers within the Federal, Intel, and Dept of Defense organizations.
+![Current Version is 1.0.0](https://img.shields.io/static/v1?label=Current%20Version&message=1.0.0&color=blue)
+![Released on January 20th, 2022](https://img.shields.io/static/v1?label=Released&message=January%2020th,%202022&color=blue)
+
+Contract Acquisition FedMake Accelerator Developed by Makers within the Federal, Intel, and Dept of Defense organizations.
+
+## Supported M365 Clouds
+
+![Supported in GCC](https://img.shields.io/static/v1?label=GCC&message=Supported&color=brightgreen)
+![Supported in GCCH](https://img.shields.io/static/v1?label=GCCH&message=Supported&color=brightgreen)
+![Not Supported in DoD](https://img.shields.io/static/v1?label=DoD&message=Not%20Supported&color=red)
+
+## Minimum Licensing Required
+
+![Requires M365](https://img.shields.io/static/v1?label=Microsft%20365&message=G3%20or%20higher&color=blue)
+![Requires Power Apps per User or per App](https://img.shields.io/static/v1?label=Power%20Apps&message=per%20user%20OR%20per%20app&color=blue)
+![Requires Power Pages Anonymous Users per App Plan](https://img.shields.io/static/v1?label=Power%20Pages&message=anonymous%20users%20per%20website&color=blue)
+![Requires Power Virtual Agent Plan](https://img.shields.io/static/v1?label=Power%20Virtual%20Agent&message=required&color=blue)
 
 ## Deployment Guide
 
-***Coming Soon***
+1. Download [onboarding.zip](https://github.com/FedMake/policy-review/raw/main/solution/v1.0.0/onboarding.zip)
+2. Import the [onboarding.zip](https://github.com/FedMake/policy-review/raw/main/solution/v1.0.0/onboarding.zip) Power Platform solution files into Dataverse.
 
 ## What is a FedMake Accelerator
 
