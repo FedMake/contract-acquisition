@@ -20,8 +20,8 @@ Contract Acquisition FedMake Accelerator Developed by Makers within the Federal,
 
 ## Deployment Guide
 
-1. Download [onboarding.zip](https://github.com/FedMake/contract-acquisition/raw/main/solution/v1.0.0/onboarding.zip)
-2. Import the [onboarding.zip](https://github.com/FedMake/contract-acquisition/raw/main/solution/v1.0.0/onboarding.zip) Power Platform solution files into Dataverse.
+1. Download [contract-acquisition.zip](https://github.com/FedMake/contract-acquisition/raw/main/solution/v1.0.0/contract-acquisition.zip)
+2. Import the [contract-acquisition.zip](https://github.com/FedMake/contract-acquisition/raw/main/solution/v1.0.0/contract-acquisition.zip) Power Platform solution files into Dataverse.
 
 ## What is a FedMake Accelerator
 
